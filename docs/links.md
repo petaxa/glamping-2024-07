@@ -14,3 +14,7 @@
   - [GoogleMap](https://maps.app.goo.gl/Eyxp2RzZ3APWt7167)
 - [老神温泉](https://www.numata-kankou.jp/stay/index.html)
   - [GoogleMap](https://maps.app.goo.gl/EJ8Gf8uUHC9di5gAA)
+
+## Walica
+
+<https://walica.jp/group/01J366GFF1YCMCQSAAQD5VJKQR>
