@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "Glamping!"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  text: "ぐらんぴんぐに、いこう！"
+  tagline: 計画とお知らせとリンク集と...。
   actions:
     - theme: brand
       text: 決定事項
