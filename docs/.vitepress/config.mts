@@ -4,7 +4,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "Glamping!",
   description: "ぐらんぴんぐに、いこう！",
-  base: "/dousoukai/",
+  base: "/glamping-2024-07/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
