@@ -13,6 +13,9 @@ hero:
     - theme: alt
       text: リンク集
       link: /links
+    - theme: alt
+      text: Discussion
+      link: /discussions
 
 features:
   - title: Feature A

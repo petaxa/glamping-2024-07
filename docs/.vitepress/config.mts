@@ -12,7 +12,21 @@ export default defineConfig({
       { text: "Link集", link: "/links" },
     ],
 
-    sidebar: [],
+    search: {
+      provider: "local",
+    },
+
+    sidebar: {
+      "/discussions/": [
+        {
+          text: "Discussions",
+          items: [
+            { text: "Discussionsとは", link: "/discussions/" },
+            { text: "料金", link: "/discussions/budged" },
+          ],
+        },
+      ],
+    },
 
     socialLinks: [
       { icon: "github", link: "https://github.com/vuejs/vitepress" },
