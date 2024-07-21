@@ -152,4 +152,4 @@ function totalFee(isPerPerson = false){
     </tbody>
 </table>
 
-**合計**: {{ totalFee() }} 円 ({{totalFee(true)}} 円/人)
+**合計**: {{ formatCurrency(totalFee()) }} 円 ({{ formatCurrency(totalFee(true)) }} 円/人)
