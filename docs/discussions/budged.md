@@ -107,7 +107,6 @@ const tableRows = [
 function formatCurrency(number) {
     // 数値を文字列に変換し、3桁ごとにカンマを挿入（アメリカ英語のロケールを使用）
     const formattedNumber = number.toLocaleString('en-US');
-    // 先頭に「￥」を追加
     return `${formattedNumber}`;
 }
 
