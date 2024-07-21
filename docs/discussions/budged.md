@@ -53,6 +53,13 @@ function formatCurrency(number) {
     return `${formattedNumber}`;
 }
 
+// 合計金額を算出
+// 引数にtrueを渡すと料金/人の合計を算出する
+function totalFee(isPerPerson = false){
+    const prices = Object.values(table).map(item => isPerPerson ? item.price / MEMBER_NUM : item.price);
+    return prices.reduce((sum, price) => sum + price, 0)
+}
+
 </script>
 
 | 商品名 | 料金 | 料金/人 | リファレンス |
