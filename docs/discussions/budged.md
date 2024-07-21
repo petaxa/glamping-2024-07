@@ -102,6 +102,16 @@ const tableRows = [
       },
     ],
   },
+  {
+    text: "高速料金(往復)",
+    price: 5430 * 2,
+    references: [
+        {
+            text: "Navitime",
+            link: "https://www.navitime.co.jp/highway/route/searchlist?depIcsapa=%E7%89%9B%E4%B9%85%E9%98%BF%E8%A6%8BIC%EF%BC%88%E9%A6%96%E9%83%BD%E5%9C%8F%E4%B8%AD%E5%A4%AE%E9%80%A3%E7%B5%A1%E8%87%AA%E5%8B%95%E8%BB%8A%E9%81%93%EF%BC%88%E8%8C%85%E3%83%B6%E5%B4%8E%EF%BD%9E%E5%A4%A7%E6%A0%84%EF%BC%89%EF%BC%89&depIcId=112020&depIcType=ic&arvIcsapa=%E6%B2%BC%E7%94%B0IC%EF%BC%88%E9%96%A2%E8%B6%8A%E8%87%AA%E5%8B%95%E8%BB%8A%E9%81%93%EF%BC%89&arvIcId=20180#result-head-0"
+        }
+    ]
+  }
 ];
 
 function formatCurrency(number) {
