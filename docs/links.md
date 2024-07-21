@@ -2,7 +2,7 @@
 
 ## グランピング場
 
-- [星降る森](https://www.star-forest.com/)
+- [星の降る森](https://www.star-forest.com/)
   - [GoogleMap](https://maps.app.goo.gl/mWG3PA456LDh1t8a7)
 
 ## アクティビティ/観光
