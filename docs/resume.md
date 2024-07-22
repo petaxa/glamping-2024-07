@@ -20,4 +20,4 @@
 
 [予約確認ページ](https://www.nap-camp.com/identity/users/reservations/110618631?ref_host=widget&campsite_id=10767)
 
-![予約詳細スクリーンショット](image.png)
+![予約詳細スクリーンショット](/image.png)
