@@ -37,7 +37,7 @@
 
 ### たびのしおり
 
-[GoogleMap 経路](https://maps.app.goo.gl/rEkwksnXnVtttpjSA)
+[GoogleMap 経路](https://maps.app.goo.gl/imYJCCEFJJUR8r7H8)
 
 #### 集合
 
