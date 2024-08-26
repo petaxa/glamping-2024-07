@@ -23,6 +23,7 @@ export default defineConfig({
           items: [
             { text: "Discussionsとは", link: "/discussions/" },
             { text: "料金", link: "/discussions/budged" },
+            { text: "もちもの", link: "/discussions/packing" },
           ],
         },
       ],
